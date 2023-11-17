@@ -7,14 +7,9 @@
   </a>
   <a href="https://www.instagram.com/huzaifmalik7860/">
     <img src="https://img.shields.io/badge/Instagram-600?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/huzaifmalik7860">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
-<!--   <img src="https://komarev.com/ghpvc/?username=huzaifmalik786&style=flat-square&color=blue" alt=""/> -->
   <h1>
-  Hello, I'm Huzaif Malik
+  Hello, I'm Mohd Asad
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -65,18 +60,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifmalik786&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=issues"/> | <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifmalik786&layout=compact&langs_count=16&theme=vision-friendly-dark"/> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-asad&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=issues"/> | <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-asad&layout=compact&langs_count=16&theme=vision-friendly-dark"/> |
 | ------------- | ------------- |
-
-
-  <picture>
-      <source
-        srcset="https://streak-stats.demolab.com/?user=huzaifmalik786&theme=highcontrast"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://streak-stats.demolab.com/?user=huzaifmalik786"
-        media="(prefers-color-scheme: light)"
-      />
-      <img src="https://streak-stats.demolab.com/?user=huzaifmalik786" />
-  </picture>
