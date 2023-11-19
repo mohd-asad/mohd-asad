@@ -2,11 +2,9 @@
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/huzaif-malik-8ab2b5232/">
+  <a href="https://www.linkedin.com/in/mohd-asad-2a2b32231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/huzaifmalik7860/">
-    <img src="https://img.shields.io/badge/Instagram-600?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
   <h1>
   Hello, I'm Mohd Asad
